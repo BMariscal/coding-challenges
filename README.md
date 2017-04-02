@@ -1,2 +1,2 @@
-# coding_challenges
+## Coding challenges
 projectEuler, HackerRank, FreeCodeCamp
