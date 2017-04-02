@@ -1,4 +1,4 @@
 # HackerRank
-HackerRank problems
+HackerRank programming challenges
 
 
