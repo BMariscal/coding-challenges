@@ -8,11 +8,11 @@
 
 
 
-for (var n = 1; n <= 100; n++) {
-  var output = "";
-  if (n % 3 == 0)
-    output += "Fizz";
-  if (n % 5 == 0)
-    output += "Buzz";
-  console.log(output || n);
+for (var i = 1; i <= 100; i++) {
+  var final;
+  if (i % 3 == 0)
+    final += "Fizz";
+  if (i % 5 == 0)
+    final += "Buzz";
+  console.log(final|| i);
 }
