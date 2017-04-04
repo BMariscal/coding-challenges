@@ -1,4 +1,6 @@
 ## Coding challenges
-projectEuler, HackerRank, FreeCodeCamp
+* projectEuler: python
+* HackerRank: python, javascript
+* FreeCodeCamp: javascript
 
- * Challenges completed so far: 91
+  * Challenges completed so far: 91
