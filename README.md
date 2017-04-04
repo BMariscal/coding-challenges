@@ -3,4 +3,4 @@
 * HackerRank: python, javascript
 * FreeCodeCamp: javascript
 
-  * Challenges completed so far: 91
+  * Total challenges completed so far: 91
