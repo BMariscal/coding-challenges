@@ -9,4 +9,4 @@ skills will be required to solve most problems.
 The motivation for starting Project Euler, and its continuation, is to provide a platform
 for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and
 recreational context.
-Number of problems completed so far: 17
+ * Number of problems completed so far: 17
