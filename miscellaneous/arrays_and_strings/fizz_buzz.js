@@ -9,7 +9,7 @@
 
 
 for (var i = 1; i <= 100; i++) {
-  var final;
+  var final ="";
   if (i % 3 == 0)
     final += "Fizz";
   if (i % 5 == 0)
