@@ -6,7 +6,7 @@
 #     #Multiples of 3 and 5 -> 'FizzBuzz'
 
 
-#Expected:
+#Expected if fizz_buzz(15):
 # None -> Exception
 # < 1 -> Exception
 # expected = [
@@ -47,3 +47,4 @@ def fizz_buzz(num):
     return arr
     
 print(fizz_buzz(15) == expected) #True
+print(fizz_buzz(100))
