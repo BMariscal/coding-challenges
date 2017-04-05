@@ -3,7 +3,7 @@ function countBs(stringy){
 
     for (var i=0; i < stringy.length; i++){
         var current = stringy[i]
-        myLetters[current] = (myLetters[current] || 0) + 1 //checking letter frequency by adding occurances into object
+        myLetters[current] = (myLetters[current] || 0) + 1 //checking letter frequency by adding occurences into object
     }
     var arr =[];
     for (var key in myLetters){ //getting the values in the object, adding them to array, checking array for maximum value
