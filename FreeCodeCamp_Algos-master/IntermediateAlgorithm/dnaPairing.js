@@ -11,7 +11,7 @@ The character and its pair are paired up in an array, and all the arrays are gro
 
 
 
-
+//with switch
 function pairElement(str) {
   var outerArr=[];
   for (var element in str){
@@ -42,6 +42,22 @@ function pairElement(str) {
   
   return outerArr;
 }
+
+//with object and map() 
+function pairElement(str) {
+  const bases = str.split("");
+  const map = {T:'A', A:'T', G:'C', C:'G'};
+  const basepairs = bases.map(bases => {
+    return [bases, map[bases]];
+  });
+  return basepairs;
+}
+
+pairElement("GCG");
+
+
+
+
 
 
 pairElement("GCG");
