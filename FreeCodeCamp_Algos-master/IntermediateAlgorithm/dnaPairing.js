@@ -43,15 +43,21 @@ function pairElement(str) {
   return outerArr;
 }
 
+
 //with object and map() 
 function pairElement(str) {
   const bases = str.split("");
   const map = {T:'A', A:'T', G:'C', C:'G'};
-  const basepairs = bases.map(bases => {
+  let basepairs = bases.map(bases => {
     return [bases, map[bases]];
   });
   return basepairs;
 }
+
+
+
+
+
 
 pairElement("GCG");
 
