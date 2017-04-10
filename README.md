@@ -4,4 +4,4 @@
 * FreeCodeCamp: javascript
 * miscellaneous: javascript(source: Eloquent Javascript book) & python(source: interactive-coding-challenges)
 
-  * Total challenges completed so far: 99
+  * Total challenges completed so far: 100
