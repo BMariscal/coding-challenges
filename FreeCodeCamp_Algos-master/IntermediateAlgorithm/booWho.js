@@ -12,6 +12,14 @@ function booWho(bool) {
 }
 booWho(false);
 
+//or
+function booWho(bool) {
+  // What is the new fad diet for ghost developers? The Boolean.
+  return ( bool === true || bool === false);
+ 
+}
+booWho(false);
+
 
 
 booWho(true) //should return true.
