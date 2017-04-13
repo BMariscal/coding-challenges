@@ -8,4 +8,4 @@
 
 
 
-#### Total challenges completed so far: 106
+#### Total challenges completed so far: 107
