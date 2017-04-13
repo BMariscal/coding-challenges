@@ -47,9 +47,9 @@ function pairElement(str) {
 //with object and map() 
 function pairElement(str) {
   const bases = str.split("");
-  const map = {T:'A', A:'T', G:'C', C:'G'};
+  const DNAmap = {T:'A', A:'T', G:'C', C:'G'};
   let basepairs = bases.map(bases => {
-    return [bases, map[bases]];
+    return [bases, DNAmap[bases]];
   });
   return basepairs;
 }
