@@ -4,7 +4,7 @@
 * FreeCodeCamp: javascript
 * miscellaneous:
     * JS sources: [Eloquent Javascript book]& [Beginning Programming with JavaScript, by Semmy Purewal].
-    * Pythonsource: [interactive-coding-challenges]
+    * Python source: [interactive-coding-challenges]
 
 
 
