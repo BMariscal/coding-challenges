@@ -2,6 +2,10 @@
 * projectEuler: python
 * HackerRank: python, javascript
 * FreeCodeCamp: javascript
-* miscellaneous: javascript(source: Eloquent Javascript book/Beginning Programming with JavaScript, by Semmy Purewal) & python(source: interactive-coding-challenges)
+* miscellaneous:
+    * JS sources: [Eloquent Javascript book]& [Beginning Programming with JavaScript, by Semmy Purewal].
+    * Pythonsource: [interactive-coding-challenges]
 
-  * Total challenges completed so far: 106
+
+
+#### Total challenges completed so far: 106
