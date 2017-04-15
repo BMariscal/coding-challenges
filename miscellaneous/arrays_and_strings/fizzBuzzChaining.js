@@ -41,3 +41,28 @@ range(1,20).map(function(number){
 }).forEach(function(number){
   console.log(number);  
 })
+
+
+//Output:
+
+
+// 1
+// 2
+// FIZZ
+// 4
+// BUZZ
+// FIZZ
+// 7
+// 8
+// FIZZ
+// BUZZ
+// 11
+// FIZZ
+// 13
+// 14
+// FIZZBUZZ
+// 16
+// 17
+// FIZZ
+// 19
+// BUZZ
