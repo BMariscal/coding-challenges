@@ -8,7 +8,6 @@ function steamrollArray(arr) {
   return arr.reduce(function(collector,val){
     
         return collector.concat(Array.isArray(val) ? steamrollArray(val) : val);},[]);
-
 }
 
 steamrollArray([1, [2], [3, [[4]]]]);
