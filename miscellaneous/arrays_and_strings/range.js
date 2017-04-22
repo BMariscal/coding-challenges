@@ -44,9 +44,8 @@ let list=[],range = function(begin, end){
   //throw error if beginning and end values are not numbers
   if((typeof begin  && typeof end) !== typeof 1){
     throw("arguments to range must be numbers")}
-    
-    
-  list.push(begin) //create list here
+      
+  list.push(begin) //grow list here
   if (begin === end){//base case
     let newlist = Array.from(list);
     list=[]
