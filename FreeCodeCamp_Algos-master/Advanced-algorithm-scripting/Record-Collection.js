@@ -17,7 +17,6 @@ If value is empty (""), delete the given prop property from the album.*/
 
 
 
-// Setup
 var collection = {
     "2548": {
       "album": "Slippery When Wet",
@@ -46,7 +45,6 @@ var collection = {
 // Keep a copy of the collection for tests
 var collectionCopy = JSON.parse(JSON.stringify(collection));
 
-// Only change code below this line
 function updateRecords(id, prop, value) {
   if (prop !== "tracks" && value !== ""){
   
