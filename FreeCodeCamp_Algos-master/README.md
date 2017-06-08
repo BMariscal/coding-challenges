@@ -1,3 +1,3 @@
 Javascript algorithm problems at FreeCodeCamp
 
- * Number of problems completed so far: 34
+ * Number of problems completed so far: 37
