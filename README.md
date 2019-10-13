@@ -1,5 +1,5 @@
 ## Coding challenges
-* projectEuler: python
+* Leetcode: python
 * projectEuler: python
 * HackerRank: python, javascript
 * FreeCodeCamp: javascript
