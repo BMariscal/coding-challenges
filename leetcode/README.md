@@ -3,3 +3,4 @@
 | ------------- |:-------------:| -----:|-----:|
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum) | Easy |  [Python](./1.py)   |
 | 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Easy |  [Python](./7.py)   |
+| 226   | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy |  [Python](./226.py)   |
