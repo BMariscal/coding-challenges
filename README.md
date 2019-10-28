@@ -9,5 +9,3 @@
     * Python source: [interactive-coding-challenges]
 
 
-
-#### Total challenges completed so far: 186
