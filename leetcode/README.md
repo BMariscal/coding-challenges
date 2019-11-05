@@ -7,7 +7,7 @@
 |30  |Substring with concatenation of all words                  |   |Hard  |
 |32  |Longest Valid Parentheses                                  |   |Hard  |
 |37  |Sudoku Solver                                              |   |Hard  |
-|42  |Trapping Rain Water                                        |   |Hard  |
+|42  |Trapping Rain Water                                        |  1 |Hard  |
 |45  |Jump Game II                                               |   |Hard  |
 |51  |N-Queens                                                   |   |Hard  |
 |52  |N-Queens II                                                |   |Hard  |
