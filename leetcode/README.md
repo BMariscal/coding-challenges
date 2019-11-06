@@ -203,7 +203,7 @@
 |1214|Two Sum BSTS                                               |   |Medium|
 |1230|Toss Strange Coins                                         |   |Medium|
 |1   |Two Sum                                                    |1  |Easy  |
-|21  |Merge Two Sorted Lists                                     |   |Easy  |
+|21  |Merge Two Sorted Lists                                     |1  |Easy  |
 |67  |Add Binary                                                 |   |Easy  |
 |88  |Merge Sorted Array                                         |   |Easy  |
 |108 |Convert Sorted Array to Binary Search Tree                 |   |Easy  |
