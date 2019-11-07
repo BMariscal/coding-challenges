@@ -207,7 +207,7 @@
 |67  |Add Binary                                                 |   |Easy  |
 |88  |Merge Sorted Array                                         |   |Easy  |
 |108 |Convert Sorted Array to Binary Search Tree                 |   |Easy  |
-|110 |Balanced Binary Tree                                       |   |Easy  |
+|110 |Balanced Binary Tree                                       |  1 |Easy  |
 |125 |Valid Palindrome                                           |   |Easy  |
 |141 |Linked List Cycle                                          |   |Easy  |
 |191 |Number of Bits                                             |   |Easy  |
