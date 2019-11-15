@@ -147,7 +147,8 @@
 |456 |132 Pattern                                                |   |Medium|
 |468 |Validate IP Address                                        |   |Medium|
 |493 |Reverse Pairs                                              |   |Medium|
-|518 |Coin Change 2                                              |1  |      |
+|516 |Longest Palindromic Subsequence                            |1  |Medium|
+|518 |Coin Change 2                                              |1  |Medium|
 |523 |Continuous Subarray Sum                                    |   |Medium|
 |535 |Encode and Decode TinyURL                                  |   |Medium|
 |545 |Boundary of Binary Tree                                    |   |Medium|
@@ -233,7 +234,7 @@
 |953 |Verifying an Alien Dictionary                              |   |Easy  |
 |1099|Two Sum Less Than K                                        |   |Easy  |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
-|    |Total                                                      |7  |      |
+|    |Total                                                      |11  |      |
 
 
 
