@@ -125,6 +125,7 @@
 |271 |Encode and Decode Strings                                  |   |Medium|
 |279 |Perfect Squares                                            |   |Medium|
 |286 |Walls and Gates                                            |   |Medium|
+|300 |Longest Increasing Subsequence                             | 1  |Medium|
 |304 |Range Sum Query 2D - Immutable                             |   |Medium|
 |322 |Coin Change                                                |1  |      |
 |324 |Wiggle Sort II                                             |   |Medium|
@@ -234,7 +235,7 @@
 |953 |Verifying an Alien Dictionary                              |   |Easy  |
 |1099|Two Sum Less Than K                                        |   |Easy  |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
-|    |Total                                                      |11  |      |
+|    |Total                                                      |12  |      |
 
 
 
