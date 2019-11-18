@@ -76,6 +76,7 @@
 |1210|Minimum moves to Reach Target with Rotations               |   |Hard  |
 |1235|Maximum Profit in Job Scheduling                           |   |Hard  |
 |1236|Web Crawler                                                |   |Hard  |
+|1240|Tiling a Rectangle with the Fewest Squares                 |   |Hard  |
 |1242|Web Crawler Multithreaded                                  |   |Hard  |
 |1244|Design a Leaderboard                                       |   |Hard  |
 |1246|Palindrome Removal                                         |   |Hard  |
@@ -116,7 +117,7 @@
 |211 |Add and Search Word - Data structure design                |   |Medium|
 |215 |Kth Largest Element in an Array                            |   |Medium|
 |220 |Contains Duplicate III                                     |   |Medium|
-|221 |Maximal Square                                             |   |Medium|
+|221 |Maximal Square                                             | 1  |Medium|
 |222 |Count Complete Tree Nodes                                  |   |Medium|
 |238 |Product of Array Except Self                               |   |Medium|
 |240 |Search a 2D Matrix II                                      |   |Medium|
@@ -207,6 +208,7 @@
 |1   |Two Sum                                                    |1  |Easy  |
 |21  |Merge Two Sorted Lists                                     |1  |Easy  |
 |67  |Add Binary                                                 |   |Easy  |
+|70  |Climbing Stairs                                              |   |Easy  |
 |88  |Merge Sorted Array                                         |   |Easy  |
 |108 |Convert Sorted Array to Binary Search Tree                 |   |Easy  |
 |110 |Balanced Binary Tree                                       |  1 |Easy  |

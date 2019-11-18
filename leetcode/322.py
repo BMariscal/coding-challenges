@@ -9,21 +9,14 @@ F(3)=min{F(3−c1),F(3−c2),F(3−c3)}+1
 """
 
 
+class Solution:
+    def coinChange(self, coins: List[int], amount: int) -> int:
+        if not amount: return 0
+        min_coins = [float('inf')] * (amount + 1)
+        min_coins[0] = 0
 
+        for c in coins:  # 2
+            for i in range(c, amount + 1):  # 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
+                min_coins[i] = min(min_coins[i], min_coins[i - c] + 1)
 
-def coinChange(coins, amount):
-    if amount < 1:
-        return 0
-
-    all_combos = [amount + 1] * (amount+1)
-    all_combos[0] = 0
-
-    for amt in range(1, amount +1):
-        for coin in coins:
-            if amt - coin >= 0 :
-                all_combos[amt] = min(all_combos[amt], 1 + all_combos[amt - coin])
-
-    if all_combos[amt] > amount:
-        return -1
-
-    return all_combos[amt]
+        return min_coins[-1] if min_coins[-1] != float('inf') else -1
