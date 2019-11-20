@@ -96,7 +96,7 @@
 |93  |Restore IP Address                                         |   |Medium|
 |95  |Unique Binary Search Trees II                              |   |Medium|
 |96  |Unique Binary Search Trees                                 |   |Medium|
-|98  |Validate Binary Search Tree                                |   |Medium|
+|98  |Validate Binary Search Tree                                | 1  |Medium|
 |103 |Binary Tree Zigzag Level Order Traversal                   |   |Medium|
 |127 |Word Ladder                                                |   |Medium|
 |133 |Clone Graph                                                |   |Medium|
@@ -237,7 +237,7 @@
 |953 |Verifying an Alien Dictionary                              |   |Easy  |
 |1099|Two Sum Less Than K                                        |   |Easy  |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
-|    |Total                                                      |12  |      |
+|    |Total                                                      |14  |      |
 
 
 
