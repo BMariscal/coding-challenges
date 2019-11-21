@@ -4,7 +4,7 @@
 |4   |Median of Two Sorted Arrays                                |1  |Hard  |
 |23  |Merge k Sorted Lists                                       |1  |Hard  |
 |25  |Reverse Nodes in k-Group                                   |   |Hard  |
-|30  |Substring with concatenation of all words                  |   |Hard  |
+|30  |Substring with concatenation of all words                  |  1 |Hard  |
 |32  |Longest Valid Parentheses                                  |   |Hard  |
 |37  |Sudoku Solver                                              |   |Hard  |
 |42  |Trapping Rain Water                                        |  1 |Hard  |
