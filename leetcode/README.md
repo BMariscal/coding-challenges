@@ -92,6 +92,7 @@
 |49  |Group Anagrams                                             |   |Medium|
 |56  |Merge Intervals                                            |   |Medium|
 |71  |Simplify Path                                              |   |Medium|
+|75  |Sort Colors                                             |  1 |Medium|
 |79  |Word Search                                                |   |Medium|
 |93  |Restore IP Address                                         |   |Medium|
 |95  |Unique Binary Search Trees II                              |   |Medium|
@@ -161,6 +162,7 @@
 |656 |Coin Path                                                  |   |      |
 |659 |Split Array into Consecutive Subsequences                  |   |Medium|
 |676 |Implement Magic Dictionary                                 |   |Medium|
+|681 |Next Closest Time                         |   |Medium|
 |688 |Knight Probability in Chessboard                           |   |Medium|
 |692 |Top K Frequent Words                                       |   |Medium|
 |698 |Partition to K Equal Sum Subsets                           |   |Medium|
@@ -238,7 +240,7 @@
 |953 |Verifying an Alien Dictionary                              |   |Easy  |
 |1099|Two Sum Less Than K                                        |   |Easy  |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
-|    |Total                                                      |17  |      |
+|    |Total                                                      |18  |      |
 
 
 
