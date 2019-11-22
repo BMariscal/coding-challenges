@@ -219,6 +219,7 @@
 |206 |Reverse Linked List                                        |   |Easy  |
 |237 |Delete Node in a Linked List                               |   |Easy  |
 |278 |First Bad Version                                          |   |Easy  |
+|283 |Move Zeroes                                         |  1 |Easy  |
 |299 |Bulls and Cows                                             |   |Easy  |
 |349 |Intersection of Two Arrays                                 |   |Easy  |
 |350 |Intersection of Two Arrays II                              |   |Easy  |
@@ -237,7 +238,7 @@
 |953 |Verifying an Alien Dictionary                              |   |Easy  |
 |1099|Two Sum Less Than K                                        |   |Easy  |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
-|    |Total                                                      |14  |      |
+|    |Total                                                      |16  |      |
 
 
 
