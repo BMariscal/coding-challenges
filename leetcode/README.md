@@ -81,7 +81,7 @@
 |1244|Design a Leaderboard                                       |   |Hard  |
 |1246|Palindrome Removal                                         |   |Hard  |
 |2   |Add Two Numbers                                            |   |Medium|
-|3   |Longest Substring Without Repeating Characters             |   |Medium|
+|3   |Longest Substring Without Repeating Characters             |  1 |Medium|
 |5   |Longest Palindromic Substring                              |   |Medium|
 |15  |3Sum                                                       |   |Medium|
 |17  |Letter Combinations of a Phone Number                      |   |Medium|
@@ -238,7 +238,7 @@
 |953 |Verifying an Alien Dictionary                              |   |Easy  |
 |1099|Two Sum Less Than K                                        |   |Easy  |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
-|    |Total                                                      |16  |      |
+|    |Total                                                      |17  |      |
 
 
 
