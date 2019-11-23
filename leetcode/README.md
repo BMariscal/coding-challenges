@@ -212,7 +212,7 @@
 |67  |Add Binary                                                 |   |Easy  |
 |70  |Climbing Stairs                                              |   |Easy  |
 |88  |Merge Sorted Array                                         |   |Easy  |
-|108 |Convert Sorted Array to Binary Search Tree                 |   |Easy  |
+|108 |Convert Sorted Array to Binary Search Tree                 |  1 |Easy  |
 |110 |Balanced Binary Tree                                       |  1 |Easy  |
 |125 |Valid Palindrome                                           |   |Easy  |
 |141 |Linked List Cycle                                          |   |Easy  |
@@ -240,7 +240,7 @@
 |953 |Verifying an Alien Dictionary                              |   |Easy  |
 |1099|Two Sum Less Than K                                        |   |Easy  |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
-|    |Total                                                      |18  |      |
+|    |Total                                                      |19  |      |
 
 
 
