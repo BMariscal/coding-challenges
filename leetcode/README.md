@@ -105,6 +105,7 @@
 |138 |Copy List with Random Pointer                              |   |Medium|
 |139 |Word Break                                                 |   |Medium|
 |142 |Linked List Cycle II                                       |   |Medium|
+|144 |Binary Tree Preorder Traversal                                     | 1  |Medium|
 |146 |LRU Cache                                                  |   |Medium|
 |147 |Insertion Sort List                                        |   |Medium|
 |148 |Sort List                                                  |   |Medium|
@@ -242,7 +243,7 @@
 |1099|Two Sum Less Than K                                        |   |Easy  |
 |1119|Remove Vowels from a String                                | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
-|    |Total                                                      |20  |      |
+|    |Total                                                      |21  |      |
 
 
 
