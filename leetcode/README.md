@@ -207,6 +207,7 @@
 |1167|Minimum Cost to Connect Sticks                             |   |Medium|
 |1214|Two Sum BSTS                                               |   |Medium|
 |1230|Toss Strange Coins                                         |   |Medium|
+|1265|Print Immutable Linked List in Reverse                                       |  1 |Medium|
 |1   |Two Sum                                                    |1  |Easy  |
 |21  |Merge Two Sorted Lists                                     |1  |Easy  |
 |67  |Add Binary                                                 |   |Easy  |
@@ -239,8 +240,9 @@
 |937 |Reorder Data in Log Files                                  |   |Easy  |
 |953 |Verifying an Alien Dictionary                              |   |Easy  |
 |1099|Two Sum Less Than K                                        |   |Easy  |
+|1119|Remove Vowels from a String                                | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
-|    |Total                                                      |19  |      |
+|    |Total                                                      |20  |      |
 
 
 
