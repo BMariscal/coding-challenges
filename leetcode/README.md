@@ -211,6 +211,7 @@
 |1265|Print Immutable Linked List in Reverse                                       |  1 |Medium|
 |1   |Two Sum                                                    |1  |Easy  |
 |21  |Merge Two Sorted Lists                                     |1  |Easy  |
+|26  |Remove Duplicates from Sorted Array                                   |1  |Easy  |
 |67  |Add Binary                                                 |   |Easy  |
 |70  |Climbing Stairs                                              |   |Easy  |
 |88  |Merge Sorted Array                                         |   |Easy  |
@@ -243,7 +244,7 @@
 |1099|Two Sum Less Than K                                        |   |Easy  |
 |1119|Remove Vowels from a String                                | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
-|    |Total                                                      |22  |      |
+|    |Total                                                      |23  |      |
 
 
 
