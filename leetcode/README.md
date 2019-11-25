@@ -82,7 +82,7 @@
 |1246|Palindrome Removal                                         |   |Hard  |
 |2   |Add Two Numbers                                            |   |Medium|
 |3   |Longest Substring Without Repeating Characters             |  1 |Medium|
-|5   |Longest Palindromic Substring                              |   |Medium|
+|5   |Longest Palindromic Substring                              |  1 |Medium|
 |15  |3Sum                                                       |   |Medium|
 |17  |Letter Combinations of a Phone Number                      |   |Medium|
 |31  |Next Permutation                                           |   |Medium|
@@ -243,7 +243,7 @@
 |1099|Two Sum Less Than K                                        |   |Easy  |
 |1119|Remove Vowels from a String                                | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
-|    |Total                                                      |21  |      |
+|    |Total                                                      |22  |      |
 
 
 
