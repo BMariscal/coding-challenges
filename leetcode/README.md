@@ -80,7 +80,7 @@
 |1242|Web Crawler Multithreaded                                  |   |Hard  |
 |1244|Design a Leaderboard                                       |   |Hard  |
 |1246|Palindrome Removal                                         |   |Hard  |
-|2   |Add Two Numbers                                            |   |Medium|
+|2   |Add Two Numbers                                            |  1 |Medium|
 |3   |Longest Substring Without Repeating Characters             |  1 |Medium|
 |5   |Longest Palindromic Substring                              |  1 |Medium|
 |15  |3Sum                                                       |   |Medium|
@@ -244,7 +244,7 @@
 |1099|Two Sum Less Than K                                        |   |Easy  |
 |1119|Remove Vowels from a String                                | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
-|    |Total                                                      |23  |      |
+|    |Total                                                      |24  |      |
 
 
 
