@@ -5,7 +5,7 @@
 |23  |Merge k Sorted Lists                                       |1  |Hard  |
 |25  |Reverse Nodes in k-Group                                   |   |Hard  |
 |30  |Substring with concatenation of all words                  |  1 |Hard  |
-|32  |Longest Valid Parentheses                                  |   |Hard  |
+|32  |Longest Valid Parentheses                                  |  1 |Hard  |
 |37  |Sudoku Solver                                              |   |Hard  |
 |42  |Trapping Rain Water                                        |  1 |Hard  |
 |45  |Jump Game II                                               |   |Hard  |
@@ -244,7 +244,7 @@
 |1099|Two Sum Less Than K                                        |   |Easy  |
 |1119|Remove Vowels from a String                                | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
-|    |Total                                                      |24  |      |
+|    |Total                                                      |26  |      |
 
 
 

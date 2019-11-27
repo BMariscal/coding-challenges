@@ -27,3 +27,5 @@ class Solution:
                 water_trapped += right_max_height - height[right]
                 right -= 1
         return water_trapped
+
+
