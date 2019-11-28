@@ -132,7 +132,7 @@
 |304 |Range Sum Query 2D - Immutable                             |   |Medium|
 |322 |Coin Change                                                |1  |      |
 |324 |Wiggle Sort II                                             |   |Medium|
-|328 |Odd Even Linked List                                       |   |Medium|
+|328 |Odd Even Linked List                                       | 1  |Medium|
 |334 |Increasing Triplet Subsequence                             |   |Medium|
 |338 |Counting Bits                                              |1  |Medium|
 |341 |Flatten Nested List Iterator                               |   |Medium|
@@ -244,7 +244,7 @@
 |1099|Two Sum Less Than K                                        |   |Easy  |
 |1119|Remove Vowels from a String                                | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
-|    |Total                                                      |26  |      |
+|    |Total                                                      |27  |      |
 
 
 
