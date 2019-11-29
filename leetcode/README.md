@@ -89,7 +89,7 @@
 |34  |Find First and Last Position of Element in Sorted Array    |   |Medium|
 |39  |Combination Sum                                            |   |Medium|
 |46  |Permutations                                               |   |Medium|
-|49  |Group Anagrams                                             |   |Medium|
+|49  |Group Anagrams                                             |  1 |Medium|
 |56  |Merge Intervals                                            |   |Medium|
 |71  |Simplify Path                                              |   |Medium|
 |75  |Sort Colors                                             |  1 |Medium|
@@ -245,7 +245,7 @@
 |1099|Two Sum Less Than K                                        |   |Easy  |
 |1119|Remove Vowels from a String                                | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
-|    |Total                                                      |29  |      |
+|    |Total                                                      |30  |      |
 
 
 
