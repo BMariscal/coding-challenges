@@ -147,7 +147,7 @@
 |421 |Maximum XOR of Two Numbers in an Array                     |   |Medium|
 |426 |Convert Binary Search Tree to Sorted Doubly Linked List    |   |Medium|
 |430 |Flatten a Multilevel Doubly Linked List                    |   |Medium|
-|438 |Find All Anagrams in a String                              |   |Medium|
+|438 |Find All Anagrams in a String                              | 1  |Medium|
 |456 |132 Pattern                                                |   |Medium|
 |468 |Validate IP Address                                        |   |Medium|
 |493 |Reverse Pairs                                              |   |Medium|
@@ -244,7 +244,7 @@
 |1099|Two Sum Less Than K                                        |   |Easy  |
 |1119|Remove Vowels from a String                                | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
-|    |Total                                                      |27  |      |
+|    |Total                                                      |28  |      |
 
 
 
