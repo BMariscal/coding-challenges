@@ -222,6 +222,7 @@
 |191 |Number of Bits                                             |   |Easy  |
 |205 |Isomorphic Strings                                         |1  |Easy  |
 |206 |Reverse Linked List                                        |   |Easy  |
+|242 |Valid Anagram                                       | 1  |Easy  |
 |237 |Delete Node in a Linked List                               |   |Easy  |
 |278 |First Bad Version                                          |   |Easy  |
 |283 |Move Zeroes                                         |  1 |Easy  |
@@ -244,7 +245,7 @@
 |1099|Two Sum Less Than K                                        |   |Easy  |
 |1119|Remove Vowels from a String                                | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
-|    |Total                                                      |28  |      |
+|    |Total                                                      |29  |      |
 
 
 
