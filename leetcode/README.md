@@ -232,6 +232,7 @@
 |350 |Intersection of Two Arrays II                              |   |Easy  |
 |359 |Logger Rate Limiter                                        |   |Easy  |
 |415 |Add Strings                                                |   |Easy  |
+|459 |Repeated Substring Pattern                                               |  1 |Easy  |
 |482 |License Key Formatting                                     |   |Easy  |
 |543 |Diameter of Binary Tree                                    |   |Easy  |
 |551 |Student Attendance Record I                                |   |Easy  |
@@ -246,7 +247,7 @@
 |1099|Two Sum Less Than K                                        |   |Easy  |
 |1119|Remove Vowels from a String                                | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
-|    |Total                                                      |32  |      |
+|    |Total                                                      |33  |      |
 
 
 
