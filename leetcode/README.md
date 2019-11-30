@@ -14,7 +14,7 @@
 |65  |Valid Number                                               |   |Hard  |
 |76  |Minimum Window Substring                                   |   |Hard  |
 |85  |Maximal Rectangle                                          |   |Hard  |
-|87  |Scramble String                                            |   |Hard  |
+|87  |Scramble String                                            |  1 |Hard  |
 |99  |Recover Binary Search Tree                                 |   |Hard  |
 |115 |Distinct Subsequences                                      |   |Hard  |
 |124 |Binary Tree Maximum Path Sum                               |   |Hard  |
@@ -210,6 +210,7 @@
 |1230|Toss Strange Coins                                         |   |Medium|
 |1265|Print Immutable Linked List in Reverse                                       |  1 |Medium|
 |1   |Two Sum                                                    |1  |Easy  |
+|20  |Valid Parentheses                                   |1  |Easy  |
 |21  |Merge Two Sorted Lists                                     |1  |Easy  |
 |26  |Remove Duplicates from Sorted Array                                   |1  |Easy  |
 |67  |Add Binary                                                 |   |Easy  |
@@ -245,7 +246,7 @@
 |1099|Two Sum Less Than K                                        |   |Easy  |
 |1119|Remove Vowels from a String                                | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
-|    |Total                                                      |30  |      |
+|    |Total                                                      |32  |      |
 
 
 
