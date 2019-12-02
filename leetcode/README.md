@@ -80,6 +80,7 @@
 |1242|Web Crawler Multithreaded                                  |   |Hard  |
 |1244|Design a Leaderboard                                       |   |Hard  |
 |1246|Palindrome Removal                                         |   |Hard  |
+|1278|Palindrome Partitioning III                                       |   |Hard  |
 |2   |Add Two Numbers                                            |  1 |Medium|
 |3   |Longest Substring Without Repeating Characters             |  1 |Medium|
 |5   |Longest Palindromic Substring                              |  1 |Medium|
@@ -121,6 +122,7 @@
 |220 |Contains Duplicate III                                     |   |Medium|
 |221 |Maximal Square                                             | 1  |Medium|
 |222 |Count Complete Tree Nodes                                  |   |Medium|
+|227 |Basic Calculator II                                |   |Medium|
 |238 |Product of Array Except Self                               |   |Medium|
 |240 |Search a 2D Matrix II                                      |   |Medium|
 |247 |Strobogrammatic Number II                                  |   |Medium|
@@ -144,6 +146,7 @@
 |393 |UTF-8 Validation                                           |   |Medium|
 |394 |Decode String                                              |   |Medium|
 |399 |Evaluate Division                                          |   |Medium|
+|418 |Sentence Screen Fitting                    |   |Medium|
 |421 |Maximum XOR of Two Numbers in an Array                     |   |Medium|
 |426 |Convert Binary Search Tree to Sorted Doubly Linked List    |   |Medium|
 |430 |Flatten a Multilevel Doubly Linked List                    |   |Medium|
@@ -208,7 +211,10 @@
 |1167|Minimum Cost to Connect Sticks                             |   |Medium|
 |1214|Two Sum BSTS                                               |   |Medium|
 |1230|Toss Strange Coins                                         |   |Medium|
+|1253|Reconstruct a 2-Row Binary Matrix                                      |   |Medium|
 |1265|Print Immutable Linked List in Reverse                                       |  1 |Medium|
+|1267|Count Servers that Communicate                                       |   |Medium|
+|1276|Number of Burgers with No Waste of Ingredients                                  |   |Medium|
 |1   |Two Sum                                                    |1  |Easy  |
 |20  |Valid Parentheses                                   |1  |Easy  |
 |21  |Merge Two Sorted Lists                                     |1  |Easy  |
@@ -248,6 +254,7 @@
 |1119|Remove Vowels from a String                                | 1  |Easy |
 |1165|Single-Row Keyboard                              | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
+|1275|Find Winner on a Tic Tac Toe Game                                     |   |Easy|
 |    |Total                                                      |34  |      |
 
 
