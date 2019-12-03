@@ -248,6 +248,7 @@
 |819 |Most Common Word                                           |   |Easy  |
 |844 |Backspace String Compare                                   |   |Easy  |
 |896 |Monotonic Array                                            |   |Easy  |
+|925| Long Pressed Name                                 |  1 |Easy  |
 |937 |Reorder Data in Log Files                                  |   |Easy  |
 |953 |Verifying an Alien Dictionary                              |   |Easy  |
 |1099|Two Sum Less Than K                                        |   |Easy  |
@@ -255,7 +256,7 @@
 |1165|Single-Row Keyboard                              | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
 |1275|Find Winner on a Tic Tac Toe Game                                     |   |Easy|
-|    |Total                                                      |34  |      |
+|    |Total                                                      |35  |      |
 
 
 
