@@ -12,6 +12,7 @@
 |51  |N-Queens                                                   |   |Hard  |
 |52  |N-Queens II                                                |   |Hard  |
 |65  |Valid Number                                               |   |Hard  |
+|68  |Text Justification                                              |   |Hard  |
 |76  |Minimum Window Substring                                   |   |Hard  |
 |85  |Maximal Rectangle                                          |   |Hard  |
 |87  |Scramble String                                            |  1 |Hard  |
@@ -46,6 +47,7 @@
 |499 |The Maze III                                               |   |Hard  |
 |514 |Freedom Trail                                              |   |Hard  |
 |552 |Student Attendance Record II                               |   |Hard  |
+|588 |Design In-Memory File System                              |   |Hard  |
 |600 |Non-negative integers without consecutive ones             |   |Hard  |
 |642 |Design Search Autocomplete System                          |   |Hard  |
 |679 |24 Game                                                    |   |Hard  |
@@ -107,7 +109,7 @@
 |139 |Word Break                                                 |   |Medium|
 |142 |Linked List Cycle II                                       |   |Medium|
 |144 |Binary Tree Preorder Traversal                                     | 1  |Medium|
-|146 |LRU Cache                                                  |   |Medium|
+|146 |LRU Cache                                                  | 1  |Medium|
 |147 |Insertion Sort List                                        |   |Medium|
 |148 |Sort List                                                  |   |Medium|
 |163 |Missing Ranges                                             |   |Medium|
@@ -243,6 +245,7 @@
 |543 |Diameter of Binary Tree                                    |   |Easy  |
 |551 |Student Attendance Record I                                |   |Easy  |
 |572 |Subtree of Another Tree                                    |   |Easy  |
+|604 |Design Compressed String Iterator                                     |   |Easy  |
 |680 |Valid Palindrome II                                        |   |Easy  |
 |751 |IP to CIDR                                                 |   |Easy  |
 |819 |Most Common Word                                           |   |Easy  |
@@ -256,7 +259,7 @@
 |1165|Single-Row Keyboard                              | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
 |1275|Find Winner on a Tic Tac Toe Game                                     |   |Easy|
-|    |Total                                                      |35  |      |
+|    |Total                                                      |36  |      |
 
 
 
