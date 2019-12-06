@@ -232,8 +232,8 @@
 |205 |Isomorphic Strings                                         |1  |Easy  |
 |206 |Reverse Linked List                                        |   |Easy  |
 |242 |Valid Anagram                                       | 1  |Easy  |
-|237 |Delete Node in a Linked List                               |   |Easy  |
-|278 |First Bad Version                                          |   |Easy  |
+|237 |Delete Node in a Linked List                               | 1  |Easy  |
+|278 |First Bad Version                                       1   |   |Easy  |
 |283 |Move Zeroes                                         |  1 |Easy  |
 |299 |Bulls and Cows                                             |   |Easy  |
 |349 |Intersection of Two Arrays                                 |   |Easy  |
@@ -259,7 +259,7 @@
 |1165|Single-Row Keyboard                              | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
 |1275|Find Winner on a Tic Tac Toe Game                                     |   |Easy|
-|    |Total                                                      |37  |      |
+|    |Total                                                      |39  |      |
 
 
 
