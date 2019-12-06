@@ -118,7 +118,7 @@
 |199 |Binary Tree Right Side View                                |   |Medium|
 |200 |Number of Islands                                          |   |Medium|
 |207 |Course Schedule                                            |   |Medium|
-|208 |Implement Trie (Prefix Tree)                               |   |Medium|
+|208 |Implement Trie (Prefix Tree)                               | 1  |Medium|
 |211 |Add and Search Word - Data structure design                |   |Medium|
 |215 |Kth Largest Element in an Array                            |   |Medium|
 |220 |Contains Duplicate III                                     |   |Medium|
@@ -259,7 +259,7 @@
 |1165|Single-Row Keyboard                              | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
 |1275|Find Winner on a Tic Tac Toe Game                                     |   |Easy|
-|    |Total                                                      |36  |      |
+|    |Total                                                      |37  |      |
 
 
 
