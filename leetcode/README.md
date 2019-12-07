@@ -238,7 +238,7 @@
 |299 |Bulls and Cows                                             |   |Easy  |
 |349 |Intersection of Two Arrays                                 |   |Easy  |
 |350 |Intersection of Two Arrays II                              |   |Easy  |
-|359 |Logger Rate Limiter                                        |   |Easy  |
+|359 |Logger Rate Limiter                                        |  1 |Easy  |
 |415 |Add Strings                                                |   |Easy  |
 |459 |Repeated Substring Pattern                                               |  1 |Easy  |
 |482 |License Key Formatting                                     |   |Easy  |
@@ -259,7 +259,7 @@
 |1165|Single-Row Keyboard                              | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
 |1275|Find Winner on a Tic Tac Toe Game                                     |   |Easy|
-|    |Total                                                      |39  |      |
+|    |Total                                                      |40  |      |
 
 
 
