@@ -217,6 +217,7 @@
 |1265|Print Immutable Linked List in Reverse                                       |  1 |Medium|
 |1267|Count Servers that Communicate                                       |   |Medium|
 |1276|Number of Burgers with No Waste of Ingredients                                  |   |Medium|
+|1282|Group the People Given the Group Size They Belong To                                      |  1 |Medium|
 |1   |Two Sum                                                    |1  |Easy  |
 |20  |Valid Parentheses                                   |1  |Easy  |
 |21  |Merge Two Sorted Lists                                     |1  |Easy  |
@@ -259,7 +260,7 @@
 |1165|Single-Row Keyboard                              | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
 |1275|Find Winner on a Tic Tac Toe Game                                     |   |Easy|
-|    |Total                                                      |40  |      |
+|    |Total                                                      |41  |      |
 
 
 
