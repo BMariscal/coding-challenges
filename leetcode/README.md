@@ -107,7 +107,7 @@
 |137 |Single Number II                                           |   |Medium|
 |138 |Copy List with Random Pointer                              |   |Medium|
 |139 |Word Break                                                 |   |Medium|
-|142 |Linked List Cycle II                                       |   |Medium|
+|142 |Linked List Cycle II                                       |  1 |Medium|
 |144 |Binary Tree Preorder Traversal                                     | 1  |Medium|
 |146 |LRU Cache                                                  | 1  |Medium|
 |147 |Insertion Sort List                                        |   |Medium|
@@ -260,7 +260,7 @@
 |1165|Single-Row Keyboard                              | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
 |1275|Find Winner on a Tic Tac Toe Game                                     |   |Easy|
-|    |Total                                                      |42  |      |
+|    |Total                                                      |44  |      |
 
 
 
