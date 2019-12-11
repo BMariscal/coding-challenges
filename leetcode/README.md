@@ -86,7 +86,7 @@
 |2   |Add Two Numbers                                            |  1 |Medium|
 |3   |Longest Substring Without Repeating Characters             |  1 |Medium|
 |5   |Longest Palindromic Substring                              |  1 |Medium|
-|15  |3Sum                                                       |   |Medium|
+|15  |3Sum                                                       |  1 |Medium|
 |17  |Letter Combinations of a Phone Number                      |   |Medium|
 |31  |Next Permutation                                           |   |Medium|
 |34  |Find First and Last Position of Element in Sorted Array    |   |Medium|
@@ -260,7 +260,7 @@
 |1165|Single-Row Keyboard                              | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
 |1275|Find Winner on a Tic Tac Toe Game                                     |   |Easy|
-|    |Total                                                      |44  |      |
+|    |Total                                                      |45  |      |
 
 
 
