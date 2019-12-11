@@ -247,6 +247,7 @@
 |551 |Student Attendance Record I                                |   |Easy  |
 |572 |Subtree of Another Tree                                    |   |Easy  |
 |604 |Design Compressed String Iterator                                     |   |Easy  |
+|628|Maximum Product of Three Numbers                                    | 1  |Easy  |
 |680 |Valid Palindrome II                                        |   |Easy  |
 |751 |IP to CIDR                                                 |   |Easy  |
 |819 |Most Common Word                                           |   |Easy  |
@@ -260,7 +261,7 @@
 |1165|Single-Row Keyboard                              | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
 |1275|Find Winner on a Tic Tac Toe Game                                     |   |Easy|
-|    |Total                                                      |45  |      |
+|    |Total                                                      |46  |      |
 
 
 
