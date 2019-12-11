@@ -18,5 +18,3 @@ class Solution:
                 alls.append(v)
         return alls
 
-
-    

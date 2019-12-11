@@ -228,7 +228,7 @@
 |108 |Convert Sorted Array to Binary Search Tree                 |  1 |Easy  |
 |110 |Balanced Binary Tree                                       |  1 |Easy  |
 |125 |Valid Palindrome                                           |   |Easy  |
-|141 |Linked List Cycle                                          |   |Easy  |
+|141 |Linked List Cycle                                          |  1 |Easy  |
 |191 |Number of Bits                                             |   |Easy  |
 |205 |Isomorphic Strings                                         |1  |Easy  |
 |206 |Reverse Linked List                                        |   |Easy  |
@@ -260,7 +260,7 @@
 |1165|Single-Row Keyboard                              | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
 |1275|Find Winner on a Tic Tac Toe Game                                     |   |Easy|
-|    |Total                                                      |41  |      |
+|    |Total                                                      |42  |      |
 
 
 
