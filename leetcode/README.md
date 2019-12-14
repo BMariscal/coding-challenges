@@ -112,6 +112,7 @@
 |146 |LRU Cache                                                  | 1  |Medium|
 |147 |Insertion Sort List                                        |   |Medium|
 |148 |Sort List                                                  |   |Medium|
+|152 |Maximum Product Subarray                                                |  1 |Medium|
 |163 |Missing Ranges                                             |   |Medium|
 |173 |Binary Search Tree Iterator                                |   |Medium|
 |179 |Largest Number                                             |   |Medium|
@@ -230,6 +231,7 @@
 |125 |Valid Palindrome                                           |   |Easy  |
 |141 |Linked List Cycle                                          |  1 |Easy  |
 |191 |Number of Bits                                             |   |Easy  |
+|198 |House Robber                               |  1 |Easy|
 |205 |Isomorphic Strings                                         |1  |Easy  |
 |206 |Reverse Linked List                                        |   |Easy  |
 |242 |Valid Anagram                                       | 1  |Easy  |
@@ -261,7 +263,7 @@
 |1165|Single-Row Keyboard                              | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
 |1275|Find Winner on a Tic Tac Toe Game                                     |   |Easy|
-|    |Total                                                      |46  |      |
+|    |Total                                                      |48  |      |
 
 
 
