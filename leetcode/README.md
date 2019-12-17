@@ -149,6 +149,7 @@
 |393 |UTF-8 Validation                                           |   |Medium|
 |394 |Decode String                                              |   |Medium|
 |399 |Evaluate Division                                          |   |Medium|
+|416 |Partition Equal Subset Sum                   |  1 |Medium|
 |418 |Sentence Screen Fitting                    |   |Medium|
 |421 |Maximum XOR of Two Numbers in an Array                     |   |Medium|
 |426 |Convert Binary Search Tree to Sorted Doubly Linked List    |   |Medium|
@@ -204,6 +205,7 @@
 |1011|Capacity To Ship Packages Within D Days                    |   |Medium|
 |1027|Longest Arithmetic Sequence                                |   |Medium|
 |1038|Binary Search Tree to Greater Sum Tree                     |   |Medium|
+|1049|Last Stone Weight II                   |   |Medium|
 |1055|Shortest Way to Form String                                |   |Medium|
 |1057|Campus Bikes                                               |   |Medium|
 |1066|Campus Bikes II                                            |   |Medium|
@@ -223,11 +225,13 @@
 |20  |Valid Parentheses                                   |1  |Easy  |
 |21  |Merge Two Sorted Lists                                     |1  |Easy  |
 |26  |Remove Duplicates from Sorted Array                                   |1  |Easy  |
+|53  |Maximum Subarray                                  |1  |Easy  |
 |67  |Add Binary                                                 |   |Easy  |
 |70  |Climbing Stairs                                              |   |Easy  |
 |88  |Merge Sorted Array                                         |   |Easy  |
 |108 |Convert Sorted Array to Binary Search Tree                 |  1 |Easy  |
 |110 |Balanced Binary Tree                                       |  1 |Easy  |
+|121 |Best Time to Buy and Sell Stock                                     |   |Easy  |
 |125 |Valid Palindrome                                           |   |Easy  |
 |141 |Linked List Cycle                                          |  1 |Easy  |
 |191 |Number of Bits                                             |   |Easy  |
@@ -263,7 +267,7 @@
 |1165|Single-Row Keyboard                              | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
 |1275|Find Winner on a Tic Tac Toe Game                                     |   |Easy|
-|    |Total                                                      |48  |      |
+|    |Total                                                      |49  |      |
 
 
 
