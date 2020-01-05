@@ -227,7 +227,7 @@
 |26  |Remove Duplicates from Sorted Array                                   |1  |Easy  |
 |53  |Maximum Subarray                                  |1  |Easy  |
 |67  |Add Binary                                                 |   |Easy  |
-|70  |Climbing Stairs                                              |   |Easy  |
+|70  |Climbing Stairs                                              |  1 |Easy  |
 |88  |Merge Sorted Array                                         |   |Easy  |
 |108 |Convert Sorted Array to Binary Search Tree                 |  1 |Easy  |
 |110 |Balanced Binary Tree                                       |  1 |Easy  |
@@ -267,7 +267,7 @@
 |1165|Single-Row Keyboard                              | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
 |1275|Find Winner on a Tic Tac Toe Game                                     |   |Easy|
-|    |Total                                                      |49  |      |
+|    |Total                                                      |50  |      |
 
 
 
