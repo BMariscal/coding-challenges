@@ -36,7 +36,7 @@
 |317 |Shortest Distance from All Buildings                       |   |Hard  |
 |329 |Longest Increasing Path in a Matrix                        |   |Hard  |
 |336 |Palindrome Pairs                                           |   |Hard  |
-|340 |Longest Substring with At Most K Distinct Characters       |   |Hard  |
+|340 |Longest Substring with At Most K Distinct Characters       |  1 |Hard  |
 |407 |Trapping Rain Water II                                     |   |Hard  |
 |410 |Split Array Largest Sum                                    |   |Hard  |
 |411 |Minimum Unique Word Abbreviation                           |   |Hard  |
@@ -257,6 +257,7 @@
 |680 |Valid Palindrome II                                        |   |Easy  |
 |751 |IP to CIDR                                                 |   |Easy  |
 |819 |Most Common Word                                           |   |Easy  |
+|836|Rectangle Overlap                                          |  1 |Easy  |
 |844 |Backspace String Compare                                   |   |Easy  |
 |896 |Monotonic Array                                            |   |Easy  |
 |925| Long Pressed Name                                 |  1 |Easy  |
@@ -267,7 +268,7 @@
 |1165|Single-Row Keyboard                              | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
 |1275|Find Winner on a Tic Tac Toe Game                                     |   |Easy|
-|    |Total                                                      |50  |      |
+|    |Total                                                      |52  |      |
 
 
 
