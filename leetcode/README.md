@@ -179,7 +179,7 @@
 |767 |Reorganize String                                          |   |Medium|
 |785 |Is Graph Bipartite?                                        |   |Medium|
 |787 |Cheapest Flights Within K Stops                            |   |Medium|
-|791 |Custom Sort String                                         |   |Medium|
+|791 |Custom Sort String                                         |  1 |Medium|
 |794 |Valid Tic-Tac-Toe State                                    |   |Medium|
 |809 |Expressive Words                                           |   |Medium|
 |825 |Friends Of Appropriate Ages                                |   |Medium|
@@ -246,6 +246,7 @@
 |349 |Intersection of Two Arrays                                 |   |Easy  |
 |350 |Intersection of Two Arrays II                              |   |Easy  |
 |359 |Logger Rate Limiter                                        |  1 |Easy  |
+|392 |Is Subsequence                               |  1 |Easy  |
 |415 |Add Strings                                                |   |Easy  |
 |459 |Repeated Substring Pattern                                               |  1 |Easy  |
 |482 |License Key Formatting                                     |   |Easy  |
@@ -256,6 +257,7 @@
 |628|Maximum Product of Three Numbers                                    | 1  |Easy  |
 |680 |Valid Palindrome II                                        |   |Easy  |
 |751 |IP to CIDR                                                 |   |Easy  |
+|771 |Jewels and Stones                                               1 |   |Easy  |
 |819 |Most Common Word                                           |   |Easy  |
 |836|Rectangle Overlap                                          |  1 |Easy  |
 |844 |Backspace String Compare                                   |   |Easy  |
@@ -268,7 +270,7 @@
 |1165|Single-Row Keyboard                              | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
 |1275|Find Winner on a Tic Tac Toe Game                                     |   |Easy|
-|    |Total                                                      |52  |      |
+|    |Total                                                      |55  |      |
 
 
 
