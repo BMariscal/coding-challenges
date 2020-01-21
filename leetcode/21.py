@@ -28,8 +28,6 @@
 #         return head.next
 
 from heapq import heappush, heappop
-
-
 class Solution:
     def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
         if not l1 and not l2:

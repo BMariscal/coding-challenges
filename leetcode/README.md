@@ -2,6 +2,7 @@
 | Problem #        | Title           |  Completed     |Difficulty|
 | ------------- |:-------------:| -----:|-----:|
 |4   |Median of Two Sorted Arrays                                |1  |Hard  |
+|10   |Regular Expression Matching                               |1  |Hard  |
 |23  |Merge k Sorted Lists                                       |1  |Hard  |
 |25  |Reverse Nodes in k-Group                                   |   |Hard  |
 |30  |Substring with concatenation of all words                  |  1 |Hard  |
@@ -14,12 +15,13 @@
 |65  |Valid Number                                               |   |Hard  |
 |68  |Text Justification                                              |   |Hard  |
 |76  |Minimum Window Substring                                   |   |Hard  |
-|85  |Maximal Rectangle                                          |   |Hard  |
+|84  |Largest Rectangle in Histogram                                         |  1 |Hard  |
+|85  |Maximal Rectangle                                          |  1 |Hard  |
 |87  |Scramble String                                            |  1 |Hard  |
 |99  |Recover Binary Search Tree                                 |   |Hard  |
 |115 |Distinct Subsequences                                      |   |Hard  |
 |124 |Binary Tree Maximum Path Sum                               |   |Hard  |
-|126 |Word Ladder II                                             |   |Hard  |
+|126 |Word Ladder II                                             |  1 |Hard  |
 |140 |Word Break II                                              |   |Hard  |
 |158 |Read N Characters Given Read4 II - Call multiple times     |   |Hard  |
 |159 |Longest substring with at most two distinct characters     |   |Hard  |
@@ -117,7 +119,7 @@
 |173 |Binary Search Tree Iterator                                |   |Medium|
 |179 |Largest Number                                             |   |Medium|
 |199 |Binary Tree Right Side View                                |   |Medium|
-|200 |Number of Islands                                          |   |Medium|
+|200 |Number of Islands                                          | 1  |Medium|
 |207 |Course Schedule                                            |   |Medium|
 |208 |Implement Trie (Prefix Tree)                               | 1  |Medium|
 |211 |Add and Search Word - Data structure design                |   |Medium|
@@ -229,24 +231,28 @@
 |67  |Add Binary                                                 |   |Easy  |
 |70  |Climbing Stairs                                              |  1 |Easy  |
 |88  |Merge Sorted Array                                         |   |Easy  |
+|104 |Maximum Depth of Binary Tree               |  1 |Easy  |
 |108 |Convert Sorted Array to Binary Search Tree                 |  1 |Easy  |
 |110 |Balanced Binary Tree                                       |  1 |Easy  |
 |121 |Best Time to Buy and Sell Stock                                     |   |Easy  |
 |125 |Valid Palindrome                                           |   |Easy  |
 |141 |Linked List Cycle                                          |  1 |Easy  |
-|191 |Number of Bits                                             |   |Easy  |
+|191 |Number of Bits                                             |  1 |Easy  |
 |198 |House Robber                               |  1 |Easy|
 |205 |Isomorphic Strings                                         |1  |Easy  |
 |206 |Reverse Linked List                                        |   |Easy  |
 |242 |Valid Anagram                                       | 1  |Easy  |
 |237 |Delete Node in a Linked List                               | 1  |Easy  |
+|258 |Add Digits                             | 1  |Easy  |
 |278 |First Bad Version                                       1   |   |Easy  |
 |283 |Move Zeroes                                         |  1 |Easy  |
 |299 |Bulls and Cows                                             |   |Easy  |
+|344 |Reverse String                                |  1 |Easy  |
 |349 |Intersection of Two Arrays                                 |   |Easy  |
 |350 |Intersection of Two Arrays II                              |   |Easy  |
 |359 |Logger Rate Limiter                                        |  1 |Easy  |
 |392 |Is Subsequence                               |  1 |Easy  |
+|412 |Fizz Buzz                                              | 1  |Easy  |
 |415 |Add Strings                                                |   |Easy  |
 |459 |Repeated Substring Pattern                                               |  1 |Easy  |
 |482 |License Key Formatting                                     |   |Easy  |
@@ -256,6 +262,7 @@
 |604 |Design Compressed String Iterator                                     |   |Easy  |
 |628|Maximum Product of Three Numbers                                    | 1  |Easy  |
 |680 |Valid Palindrome II                                        |   |Easy  |
+|709 |To Lower Case                                                |  1 |Easy  |
 |751 |IP to CIDR                                                 |   |Easy  |
 |771 |Jewels and Stones                                               1 |   |Easy  |
 |819 |Most Common Word                                           |   |Easy  |
@@ -270,7 +277,7 @@
 |1165|Single-Row Keyboard                              | 1  |Easy |
 |1170|Compare Strings by Frequency of the Smallest Character     |   |Easy  |
 |1275|Find Winner on a Tic Tac Toe Game                                     |   |Easy|
-|    |Total                                                      |55  |      |
+
 
 
 

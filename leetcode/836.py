@@ -23,10 +23,11 @@
 class Solution:
     def isRectangleOverlap(self, rec1: List[int], rec2: List[int]) -> bool:
         # [x1, y1, x2, y2]
+        # [x1, y1, x2, y2]
+        [Ax, Ay, Bx, By] = rec1
+        [Cx, Cy, Dx, Dy] = rec2
 
-        [x1rec1,y1rec1,x2rec1,y2rec1], [x1rec2,y1rec2,x2rec2,y2rec2] = rec1, rec2
-        return y1rec2<y2rec1 and x1rec2<x2rec1 and y1rec1<y2rec2 and x1rec1<x2rec2
-
+        return Cy < By and Cx < Bx and Ay < Dy and Ax < Dx
 
 
 rec1 = [0,0,2,2]

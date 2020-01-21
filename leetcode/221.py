@@ -10,6 +10,8 @@ class Solution:
 
         if not matrix or not matrix[0]:
             return 0
+
+
         height = len(matrix)  # matrix height or number of rows
         width = len(matrix[0])  # matrix width or number of columns
         dp = [[1 if item == '1' else 0 for item in row] for row in matrix]
