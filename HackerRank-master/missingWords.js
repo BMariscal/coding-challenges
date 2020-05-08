@@ -99,24 +99,20 @@
 
 
 
-function missingWords(s, t){
-    t = t.split(" ")
-    s = s.split(" ")
-    let res = []
-
-    let t_words = new Set()
-    for (let i=0;i < t.length; i++){
-        t_words.add(t[i])
-
-    }
-    for (let i=0;i < s.length; i++){
-        if (!t_words.has(s[i])){
-            res.push(s[i])
+function missingWords(s, t) {
+    let arrayS = s.split(' ');
+    let arrayT = t.split(' ');
+    let resArr = [];
+    let j = 0
+    for(let i =0; i<arrayS.length;i++){
+        let item = arrayS[i]
+        if (item != arrayT[j]){
+            resArr.push(item)
+        }else{
+           j+=1
         }
     }
-
-    return res
-
+    return resArr;
 }
 
 let s ='I like cheese'
